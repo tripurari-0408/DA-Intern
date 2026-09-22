@@ -13,7 +13,6 @@
 * **Assignment Title:** Week 1 Assignment: Python Fundamentals for Data Analytics
 * **Duration:** 1 Week (7 Days)
 * **Total Marks:** 100 / 100
-* **Submission Format:** GitHub Repository + PDF Report + Google Drive Link
 
 ---
 
@@ -120,23 +119,6 @@ The objective of this assignment is to establish a strong foundation in core Pyt
 
 ---
 
-## 📊 Evaluation Criteria & Mark Distribution
-
-| Task Category | Evaluated Concept | Marks Allocated |
-| :--- | :--- | :---: |
-| **Task 1** | Python Basics (Input/Output & Formatting) | 10 |
-| **Task 2** | Variables & Data Types (`type()` verification) | 10 |
-| **Task 3** | Arithmetic Operators & CLI Calculator | 10 |
-| **Task 4** | Conditional Statements (`if-elif-else`) | 10 |
-| **Task 5** | Loop Structures (`for`, `while`, ranges) | 10 |
-| **Task 6** | User-Defined Functions & Return Values | 10 |
-| **Task 7** | Data Structures (Strings, Lists, Tuples, Dicts, Sets) | 15 |
-| **Task 8** | Basic File I/O Operations (`read`/`write`) | 10 |
-| **Task 9** | Mini Project (Student Record Management System) | 15 |
-| **Total** | **Full Assignment Weightage** | **100** |
-
----
-
 ## 📚 Syllabus & Topics Covered
 - Introduction to Python & Syntax Rules
 - Variables, Dynamic Typing & Data Types
@@ -153,15 +135,6 @@ The objective of this assignment is to establish a strong foundation in core Pyt
 - Basic File Handling (`w`, `r`, file streams)
 - Modular CLI Project Architecture
 
----
-
-## 🎓 Saturday Mentorship Session Agenda
-This week's practical implementations were supplemented by the InternNova Saturday Mentorship Session:
-* **Mentorship & Guidance:** Industry best practices and clean code standards.
-* **Weekly Doubt Solving:** Deep dive into execution bugs and logic edge-cases.
-* **Revision of Week 1 Concepts:** Rapid recall of core syntax and data collection operations.
-* **Python Coding Practice:** Real-world problem-solving exercises.
-* **Career Guidance:** Structuring GitHub repositories for data analytics roles.
 
 ---
 

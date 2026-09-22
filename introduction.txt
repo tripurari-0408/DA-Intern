@@ -1,0 +1,4 @@
+Hello! 
+    My name is an Tripurari Kumar.
+    I am currently learning Data Analysis from IIT Patna.
+    This text was written directly from a Python code!

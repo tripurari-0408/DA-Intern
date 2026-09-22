@@ -142,13 +142,14 @@ The objective of this assignment is to establish a strong foundation in core Pyt
 
 ```text
 .
-├── task1_basics.py         # Task 1: Welcome message & formatted user input
-├── task2_datatypes.py      # Task 2: Data type declarations & type() inspection
-├── task3_operators.py      # Task 3: 5-Operation CLI Calculator
-├── task4_conditionals.py   # Task 4: Grade evaluation system
-├── task5_loops.py          # Task 5: For loop, multiplication table, while loop
-├── task6_functions.py      # Task 6: Square and average calculation functions
-├── task7_collections.py    # Task 7: String, List, Tuple, Dict, and Set operations
-├── task8_file_handling.py  # Task 8: Text file creation, writing, and reading
-├── task9_mini_project.py   # Task 9: Student Record Management System (CRUD)
+├── 1.py         # Task 1: Welcome message & formatted user input
+├── 2.py      # Task 2: Data type declarations & type() inspection
+├── 3.py      # Task 3: 5-Operation CLI Calculator
+├── 4.py   # Task 4: Grade evaluation system
+├── 5.py          # Task 5: For loop, multiplication table, while loop
+├── 6.py      # Task 6: Square and average calculation functions
+├── 7.py    # Task 7: String, List, Tuple, Dict, and Set operations
+├── 8.py  # Task 8: Text file creation, writing, and reading
+├── 9.py   # Task 9: Student Record Management System (CRUD)
+├──Introduction.tkt
 └── README.md               # Complete assignment documentation

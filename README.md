@@ -1,11 +1,11 @@
 # DA-Intern
 
-# InternNova — Week 1: Python Fundamentals for Data Analytics
+# InternNova — Week 1&2: Python Fundamentals for Data Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Program](https://img.shields.io/badge/Internship-InternNova%20Data%20Analytics-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Submission](https://img.shields.io/badge/Due-20%20Sept-red)
+![Submission](https://img.shields.io/badge/14th-Sept---25%20-Oct-red)
 
 ## 📌 Submission Overview
 * **Student Name:** Tripurari
@@ -142,14 +142,15 @@ The objective of this assignment is to establish a strong foundation in core Pyt
 
 ```text
 .
-├── 1.py         # Task 1: Welcome message & formatted user input
-├── 2.py      # Task 2: Data type declarations & type() inspection
-├── 3.py      # Task 3: 5-Operation CLI Calculator
-├── 4.py   # Task 4: Grade evaluation system
-├── 5.py          # Task 5: For loop, multiplication table, while loop
-├── 6.py      # Task 6: Square and average calculation functions
-├── 7.py    # Task 7: String, List, Tuple, Dict, and Set operations
-├── 8.py  # Task 8: Text file creation, writing, and reading
-├── 9.py   # Task 9: Student Record Management System (CRUD)
-├──Introduction.tkt
-└── README.md               # Complete assignment documentation
+├── 1.py                   # Task 1: Welcome message & formatted user input
+├── 2.py                   # Task 2: Data type declarations & type() inspection
+├── 3.py                   # Task 3: 5-Operation CLI Calculator
+├── 4.py                   # Task 4: Grade evaluation system
+├── 5.py                   # Task 5: For loop, multiplication table, while loop
+├── 6.py                   # Task 6: Square and average calculation functions
+├── 7.py                   # Task 7: String, List, Tuple, Dict, and Set operations
+├── 8.py                   # Task 8: Text file creation, writing, and reading
+├── 9.py                   # Task 9: Student Record Management System (CRUD)
+├── week2_assignment.ipynb # Week 2: NumPy & Pandas notebook
+├── Introduction.tkt
+└── README.md              # Complete assignment documentation
